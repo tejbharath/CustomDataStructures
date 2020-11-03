@@ -1,0 +1,42 @@
+﻿== PROBLEM 1 INSTRUCTIONS ==
+Implement the IMultiValueDictionary<K, V> interface from the Problem1 folder given the following business rules:
+
+* The MultiValueDictionary contains a Key and Value type.  For each Key, it will store a collection of Values.
+
+** Indexer (this[K key]) **
+	- Returns the value collection for the given key
+	- Throws KeyNotFoundException if they given key doesn't exist
+
+** Add **
+	- Adds the value for the given key to the MultiValueDictionary
+	- Throws an InvalidOperationException if the given Key/Value combination already exists
+
+** Remove **
+	- Removes the given key/value combination from the MultiValueDictionary
+	- Returns True if the combination was found, False if it wasn't
+	- If no other values exists for the given key, remove the key
+
+** RemoveAll **
+	- Removes all values for the given key and removes the key
+	- Returns True if the key was found, false if it wasn't
+
+** Clear **
+	- Clears all keys and values from the MultiValueDictionary
+
+** ContainsKey **
+	- Returns true if the given key exists, false if it doesn't
+
+** ContainsValue **
+	- Returns true if the given key/value combination exists, false if it doesn't
+
+** Keys **
+	- Returns a collection of all keys present in the MultiValueDictionary
+	- Returns an empty collection if no keys exist
+
+** Values **
+	- Returns a collection of all values present in the multivalue dictionary
+	- Returns an empty collection if no values exist
+
+** Items **
+	- Returns a KeyValuePair collection including every value in the MultiValueDictionary
+	- Returns an empty collection if no key/values exist

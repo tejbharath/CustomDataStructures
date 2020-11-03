@@ -1,0 +1,16 @@
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\InterviewTests.deps.json
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\InterviewTests.runtimeconfig.json
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\InterviewTests.runtimeconfig.dev.json
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\InterviewTests.dll
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\InterviewTests.pdb
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\TechInterviewOne.dll
+D:\TechInterviewOne\InterviewTests\bin\Debug\netcoreapp2.0\TechInterviewOne.pdb
+D:\TechInterviewOne\InterviewTests\obj\Debug\netcoreapp2.0\InterviewTests.csprojAssemblyReference.cache
+D:\TechInterviewOne\InterviewTests\obj\Debug\netcoreapp2.0\InterviewTests.AssemblyInfoInputs.cache
+D:\TechInterviewOne\InterviewTests\obj\Debug\netcoreapp2.0\InterviewTests.AssemblyInfo.cs
+D:\TechInterviewOne\InterviewTests\obj\Debug\netcoreapp2.0\InterviewTests.csproj.CopyComplete
+D:\TechInterviewOne\InterviewTests\obj\Debug\netcoreapp2.0\InterviewTests.dll
+D:\TechInterviewOne\InterviewTests\obj\Debug\netcoreapp2.0\InterviewTests.pdb

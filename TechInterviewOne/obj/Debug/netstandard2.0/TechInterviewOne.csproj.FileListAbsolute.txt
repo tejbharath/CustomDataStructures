@@ -1,0 +1,8 @@
+D:\TechInterviewOne\TechInterviewOne\bin\Debug\netstandard2.0\TechInterviewOne.deps.json
+D:\TechInterviewOne\TechInterviewOne\bin\Debug\netstandard2.0\TechInterviewOne.dll
+D:\TechInterviewOne\TechInterviewOne\bin\Debug\netstandard2.0\TechInterviewOne.pdb
+D:\TechInterviewOne\TechInterviewOne\obj\Debug\netstandard2.0\TechInterviewOne.csprojAssemblyReference.cache
+D:\TechInterviewOne\TechInterviewOne\obj\Debug\netstandard2.0\TechInterviewOne.AssemblyInfoInputs.cache
+D:\TechInterviewOne\TechInterviewOne\obj\Debug\netstandard2.0\TechInterviewOne.AssemblyInfo.cs
+D:\TechInterviewOne\TechInterviewOne\obj\Debug\netstandard2.0\TechInterviewOne.dll
+D:\TechInterviewOne\TechInterviewOne\obj\Debug\netstandard2.0\TechInterviewOne.pdb
